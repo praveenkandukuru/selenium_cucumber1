@@ -1,0 +1,38 @@
+2023-09-12 11:13:27,112 - StepDefinitions.StepsLogin -INFO - ----driver is launched and maximized-------
+2023-09-12 11:13:28,483 - StepDefinitions.StepsLogin -INFO - ----website is opened-------
+2023-09-12 11:13:28,660 - StepDefinitions.StepsLogin -INFO - ----enter username and password-------
+2023-09-12 11:13:31,633 - StepDefinitions.StepsLogin -INFO - ----clicked on login button-------
+2023-09-12 11:13:31,642 - StepDefinitions.StepsLogin -INFO - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 11:13:31,705 - StepDefinitions.StepsLogin -INFO - -----clicked on the customers menu option-------
+2023-09-12 11:13:37,982 - StepDefinitions.StepsLogin -INFO - ----clicked on the customers option in the customer menu-------
+2023-09-12 11:13:39,196 - StepDefinitions.StepsLogin -INFO - ----clicked on the add new customer button-------
+2023-09-12 11:13:39,721 - StepDefinitions.StepsLogin -INFO - ----all details of the customer is entered-------
+2023-09-12 11:13:41,125 - StepDefinitions.StepsLogin -INFO - ----clicked on the save button-------
+2023-09-12 11:13:41,157 - StepDefinitions.StepsLogin -INFO - ========message is verified------------
+2023-09-12 11:13:41,348 - StepDefinitions.StepsLogin -INFO - ----browser is closed-------
+2023-09-12 11:13:42,461 - StepDefinitions.StepsLogin -INFO - ----driver is launched and maximized-------
+2023-09-12 11:13:43,200 - StepDefinitions.StepsLogin -INFO - ----website is opened-------
+2023-09-12 11:13:43,367 - StepDefinitions.StepsLogin -INFO - ----enter username and password-------
+2023-09-12 11:13:45,358 - StepDefinitions.StepsLogin -INFO - ----clicked on login button-------
+2023-09-12 11:13:45,366 - StepDefinitions.StepsLogin -INFO - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 11:13:45,423 - StepDefinitions.StepsLogin -INFO - -----clicked on the customers menu option-------
+2023-09-12 11:13:51,704 - StepDefinitions.StepsLogin -INFO - ----clicked on the customers option in the customer menu-------
+2023-09-12 12:36:48,939 - StepDefinitions.StepsLogin -INFO - ----driver is launched and maximized-------
+2023-09-12 12:36:50,507 - StepDefinitions.StepsLogin -INFO - ----website is opened-------
+2023-09-12 12:36:50,708 - StepDefinitions.StepsLogin -INFO - ----enter username and password-------
+2023-09-12 12:36:52,929 - StepDefinitions.StepsLogin -INFO - ----clicked on login button-------
+2023-09-12 12:36:52,960 - StepDefinitions.StepsLogin -INFO - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 12:36:53,054 - StepDefinitions.StepsLogin -INFO - -----clicked on the customers menu option-------
+2023-09-12 12:36:59,244 - StepDefinitions.StepsLogin -INFO - ----clicked on the customers option in the customer menu-------
+2023-09-12 12:37:00,413 - StepDefinitions.StepsLogin -INFO - ----clicked on the add new customer button-------
+2023-09-12 12:37:00,928 - StepDefinitions.StepsLogin -INFO - ----all details of the customer is entered-------
+2023-09-12 12:37:02,184 - StepDefinitions.StepsLogin -INFO - ----clicked on the save button-------
+2023-09-12 12:37:02,228 - StepDefinitions.StepsLogin -INFO - ========message is verified------------
+2023-09-12 12:37:02,366 - StepDefinitions.StepsLogin -INFO - ----browser is closed-------
+2023-09-12 12:37:03,160 - StepDefinitions.StepsLogin -INFO - ----driver is launched and maximized-------
+2023-09-12 12:37:04,952 - StepDefinitions.StepsLogin -INFO - ----website is opened-------
+2023-09-12 12:37:05,114 - StepDefinitions.StepsLogin -INFO - ----enter username and password-------
+2023-09-12 12:37:10,557 - StepDefinitions.StepsLogin -INFO - ----clicked on login button-------
+2023-09-12 12:37:10,566 - StepDefinitions.StepsLogin -INFO - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 12:37:10,617 - StepDefinitions.StepsLogin -INFO - -----clicked on the customers menu option-------
+2023-09-12 12:37:16,899 - StepDefinitions.StepsLogin -INFO - ----clicked on the customers option in the customer menu-------

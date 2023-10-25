@@ -1,0 +1,73 @@
+2023-09-12 10:52:19,832 [main] INFO Selenium_cucumber1 - ----driver is launched and maximized-------
+2023-09-12 10:52:21,435 [main] INFO Selenium_cucumber1 - ----website is opened-------
+2023-09-12 10:52:21,632 [main] INFO Selenium_cucumber1 - ----enter username and password-------
+2023-09-12 10:52:24,192 [main] INFO Selenium_cucumber1 - ----clicked on login button-------
+2023-09-12 10:52:24,205 [main] INFO Selenium_cucumber1 - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 10:52:24,278 [main] INFO Selenium_cucumber1 - -----clicked on the customers menu option-------
+2023-09-12 10:52:30,595 [main] INFO Selenium_cucumber1 - ----clicked on the customers option in the customer menu-------
+2023-09-12 10:52:32,111 [main] INFO Selenium_cucumber1 - ----clicked on the add new customer button-------
+2023-09-12 10:52:32,662 [main] INFO Selenium_cucumber1 - ----all details of the customer is entered-------
+2023-09-12 10:52:33,960 [main] INFO Selenium_cucumber1 - ----clicked on the save button-------
+2023-09-12 10:52:33,980 [main] INFO Selenium_cucumber1 - ========message is verified------------
+2023-09-12 10:52:34,113 [main] INFO Selenium_cucumber1 - ----browser is closed-------
+2023-09-12 10:52:35,176 [main] INFO Selenium_cucumber1 - ----driver is launched and maximized-------
+2023-09-12 10:52:36,846 [main] INFO Selenium_cucumber1 - ----website is opened-------
+2023-09-12 10:52:37,033 [main] INFO Selenium_cucumber1 - ----enter username and password-------
+2023-09-12 10:52:50,965 [main] INFO Selenium_cucumber1 - ----clicked on login button-------
+2023-09-12 10:52:50,978 [main] INFO Selenium_cucumber1 - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 10:52:51,052 [main] INFO Selenium_cucumber1 - -----clicked on the customers menu option-------
+2023-09-12 10:52:58,563 [main] INFO Selenium_cucumber1 - ----clicked on the customers option in the customer menu-------
+2023-09-12 10:55:34,127 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 10:55:35,604 [main] INFO StepDefinitions.StepsLogin - ----website is opened-------
+2023-09-12 10:55:36,677 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 10:55:38,011 [main] INFO StepDefinitions.StepsLogin - ----website is opened-------
+2023-09-12 11:02:55,908 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 11:02:57,472 [main] INFO StepDefinitions.StepsLogin - ----website is opened-------
+2023-09-12 11:02:58,572 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 11:07:30,893 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 11:07:34,853 [main] INFO StepDefinitions.StepsLogin - ----website is opened-------
+2023-09-12 11:07:35,041 [main] INFO StepDefinitions.StepsLogin - ----enter username and password-------
+2023-09-12 11:08:12,179 [main] INFO StepDefinitions.StepsLogin - ----clicked on login button-------
+2023-09-12 11:08:12,191 [main] INFO StepDefinitions.StepsLogin - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 11:08:12,275 [main] INFO StepDefinitions.StepsLogin - -----clicked on the customers menu option-------
+2023-09-12 11:08:45,600 [main] INFO StepDefinitions.StepsLogin - ----clicked on the customers option in the customer menu-------
+2023-09-12 11:09:57,737 [main] INFO StepDefinitions.StepsLogin - ----clicked on the add new customer button-------
+2023-09-12 11:09:59,139 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 11:13:27,112 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 11:13:28,483 [main] INFO StepDefinitions.StepsLogin - ----website is opened-------
+2023-09-12 11:13:28,660 [main] INFO StepDefinitions.StepsLogin - ----enter username and password-------
+2023-09-12 11:13:31,633 [main] INFO StepDefinitions.StepsLogin - ----clicked on login button-------
+2023-09-12 11:13:31,642 [main] INFO StepDefinitions.StepsLogin - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 11:13:31,705 [main] INFO StepDefinitions.StepsLogin - -----clicked on the customers menu option-------
+2023-09-12 11:13:37,982 [main] INFO StepDefinitions.StepsLogin - ----clicked on the customers option in the customer menu-------
+2023-09-12 11:13:39,196 [main] INFO StepDefinitions.StepsLogin - ----clicked on the add new customer button-------
+2023-09-12 11:13:39,721 [main] INFO StepDefinitions.StepsLogin - ----all details of the customer is entered-------
+2023-09-12 11:13:41,125 [main] INFO StepDefinitions.StepsLogin - ----clicked on the save button-------
+2023-09-12 11:13:41,157 [main] INFO StepDefinitions.StepsLogin - ========message is verified------------
+2023-09-12 11:13:41,348 [main] INFO StepDefinitions.StepsLogin - ----browser is closed-------
+2023-09-12 11:13:42,461 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 11:13:43,200 [main] INFO StepDefinitions.StepsLogin - ----website is opened-------
+2023-09-12 11:13:43,367 [main] INFO StepDefinitions.StepsLogin - ----enter username and password-------
+2023-09-12 11:13:45,358 [main] INFO StepDefinitions.StepsLogin - ----clicked on login button-------
+2023-09-12 11:13:45,366 [main] INFO StepDefinitions.StepsLogin - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 11:13:45,423 [main] INFO StepDefinitions.StepsLogin - -----clicked on the customers menu option-------
+2023-09-12 11:13:51,704 [main] INFO StepDefinitions.StepsLogin - ----clicked on the customers option in the customer menu-------
+2023-09-12 12:36:48,939 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 12:36:50,507 [main] INFO StepDefinitions.StepsLogin - ----website is opened-------
+2023-09-12 12:36:50,708 [main] INFO StepDefinitions.StepsLogin - ----enter username and password-------
+2023-09-12 12:36:52,929 [main] INFO StepDefinitions.StepsLogin - ----clicked on login button-------
+2023-09-12 12:36:52,960 [main] INFO StepDefinitions.StepsLogin - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 12:36:53,054 [main] INFO StepDefinitions.StepsLogin - -----clicked on the customers menu option-------
+2023-09-12 12:36:59,244 [main] INFO StepDefinitions.StepsLogin - ----clicked on the customers option in the customer menu-------
+2023-09-12 12:37:00,413 [main] INFO StepDefinitions.StepsLogin - ----clicked on the add new customer button-------
+2023-09-12 12:37:00,928 [main] INFO StepDefinitions.StepsLogin - ----all details of the customer is entered-------
+2023-09-12 12:37:02,184 [main] INFO StepDefinitions.StepsLogin - ----clicked on the save button-------
+2023-09-12 12:37:02,228 [main] INFO StepDefinitions.StepsLogin - ========message is verified------------
+2023-09-12 12:37:02,366 [main] INFO StepDefinitions.StepsLogin - ----browser is closed-------
+2023-09-12 12:37:03,160 [main] INFO StepDefinitions.StepsLogin - ----driver is launched and maximized-------
+2023-09-12 12:37:04,952 [main] INFO StepDefinitions.StepsLogin - ----website is opened-------
+2023-09-12 12:37:05,114 [main] INFO StepDefinitions.StepsLogin - ----enter username and password-------
+2023-09-12 12:37:10,557 [main] INFO StepDefinitions.StepsLogin - ----clicked on login button-------
+2023-09-12 12:37:10,566 [main] INFO StepDefinitions.StepsLogin - ----DashBoard page is opened and title of the page is verified-------
+2023-09-12 12:37:10,617 [main] INFO StepDefinitions.StepsLogin - -----clicked on the customers menu option-------
+2023-09-12 12:37:16,899 [main] INFO StepDefinitions.StepsLogin - ----clicked on the customers option in the customer menu-------
